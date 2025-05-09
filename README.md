@@ -9,4 +9,8 @@ making chnages
 ## local dev
 
 1. open in index.html in browser
-2. main changes
+
+2. chekcing out new branch with conflic
+
+3. main changes
+
